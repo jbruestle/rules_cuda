@@ -4,6 +4,7 @@ ALLOW_CUDA_HDRS = [
     ".hpp",
     ".hh",
     ".inl",
+    "*.cu",
 ]
 
 ALLOW_CUDA_SRCS = [
